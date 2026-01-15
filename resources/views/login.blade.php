@@ -10,7 +10,7 @@
 
 
 <div class="container">
-    <h1>Login Perpustakaan</h1>
+   <h1>Login Perpustakaan Digital</h1>
     <form>
         <label>Username</label>
         <input type="text" placeholder="Masukkan username">
